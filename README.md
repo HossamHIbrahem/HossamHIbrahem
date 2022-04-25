@@ -9,7 +9,7 @@
 I'm a software engineer who thrives on helping companies solve their challenges through technology. I thrive in pushing myself beyond my comfort level to learn new things. Some technologies I enjoy working with Java, Spring Framwork, Spring boot, and Angular.
 
 - 🔭 I'm a Software Engineer [@intalio](https://www.intalio.com/) in Cairo, Egypt
-- 🌱 I’m currently learning **Serveral Java Projects**
+- 🧐 Interested in **Software Engineering**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me **hossamhassan.job@outlook.com**
 - 💬 Ask me about **Java, Spring Framework, Spring boot, Angular**
